@@ -3,7 +3,7 @@ public class Main
 {
   public static void main (String[]args)
   {
-	short b = 23;
+	short b = 30235;
 
 	  System.out.println (b);
 
